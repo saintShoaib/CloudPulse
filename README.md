@@ -32,3 +32,7 @@ Streamlit displays live data, trends, predictions & analysis
 📱 Mobile & Desktop Responsive UI
 
 > **Note:** CloudPulse uses modelled Open-Meteo data. Its AQI is a project-level PM2.5 estimate and its AI forecast is an estimate, not an official CPCB reading or guaranteed prediction.
+
+## 🚀 Live Demo
+
+👉 **[Open CloudPulse](https://cloudpulse.streamlit.app)**
